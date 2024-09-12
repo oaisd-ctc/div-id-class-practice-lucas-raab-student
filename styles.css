@@ -1,0 +1,46 @@
+.main-box {
+  height: 100px;
+  width: 100%;
+  margin: 10px;
+  border-radius: 5px;}
+#red-box{ 
+  background-color:red
+}
+
+
+#blue-box {
+
+  background-color: blue;
+}
+
+#green-box {
+  background-color: green;
+}
+
+#grey-box {
+  background-color: grey;
+}
+
+#lightblue-box {
+  background-color: lightblue;
+}
+
+#pink-box {
+  background-color: PINK;
+}
+
+#yellow-box{
+  background-color: yellow
+}
+
+#purple-box {
+  background-color: purple
+}
+
+#lightgreen-box {
+  background-color: lightgreen
+}
+
+#hotpink-box {
+  background-color: hotpink
+}
